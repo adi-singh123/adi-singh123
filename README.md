@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer || Frontend Developer || Web Developer || JavaScript </h3>
+
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" width="400"  src="https://gteches.com/wp-content/uploads/2023/05/Full-Stack-3.gif"
 
 - 🔭 I’m currently working on **Airbun website**
