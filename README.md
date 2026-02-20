@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Airbun website**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adi-singh123/PORTFOLIO](https://github.com/adi-singh123/PORTFOLIO)
+- 👨‍💻 All of my projects are available at [[https://github.com/adi-singh123/PORTFOLIO](https://aadityaportfolio-zcqv.onrender.com/)]
 
 - 💬 Ask me about **MERN**
 
