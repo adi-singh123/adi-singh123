@@ -37,7 +37,7 @@
 
 ## 🚀 Featured Projects
 
-### [DevCalc](https://www.devcalc.in/)
+### [DevCalc.in](https://www.devcalc.in/)
 
 An SEO-focused utility platform offering more than 100 calculators across 8+ categories.
 
@@ -46,7 +46,7 @@ An SEO-focused utility platform offering more than 100 calculators across 8+ cat
 - Automated blog publishing using the NVIDIA API
 - Responsive and source-visible informational content
 
-### V3Cars.com <a href="https://www.v3cars.com"/>
+### [V3cars.com](https://www.v3cars.com/)
 
 Contributing to a production automotive platform as part of my role at Phoenix Advanced Softwares.
 
